@@ -1,4 +1,4 @@
-- 👋 Oii, sou @DarkstackDF
+- 👋 Oii, sou @DarkfriendDev
 - 👀 Tenho interesse em dominar o Front-end
 - 🌱 Atualmente estudando React.js
 - 📫 Contato: bryancesar34@gmail.com / +55 953602588
