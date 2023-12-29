@@ -1,4 +1,5 @@
-- 👋 Oii, sou @DarkfriendDev
+- 👋 Oii, sou @DarkfriendDev / Nome Real: Bryan Cesar
 - 👀 Tenho interesse em dominar o Front-end
 - 🌱 Atualmente estudando React.js
 - 📫 Contato: bryancesar34@gmail.com / +55 953602588
+- Meu Portfólio: https://portfolio-green-phi.vercel.app/
